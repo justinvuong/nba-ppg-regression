@@ -54,7 +54,7 @@ RMSE (Root Mean Squared Error): ~0.075
 
 ## Visualization
 
-![Actual vs Predicted PPG](output/actual_vs_predicted_ppg.png)
+![Actual vs Predicted PPG](nba_linear_regression_results.png)
 
 > A tight scatterplot around the y-x line shows strong model accuracy. 
 
